@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Toshit 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIT+Bhilai;Backend+Developer+%7C+Java+%2B+Spring+Boot;Competitive+Programmer+on+Codeforces+%26+LeetCode;Open+to+SWE+Internships+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIT+Bhilai;Backend+Developer+%7C+Java+%2B+Spring+Boot;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 - 🎓 B.Tech Computer Science, **IIT Bhilai** (2024 – 2028)
 - 🛠️ Building backend systems with **Java, Spring Boot, MySQL, Hibernate/JPA**
-- 🧩 Active competitive programmer — Codeforces & 300+ problems solved on LeetCode
-- 🎯 Currently looking for **SWE Internship opportunities, Summer 2027**
+- 🧩 Active competitive programmer — [Codeforces](https://codeforces.com/profile/Toshit-Jain07) & 300+ problems solved on [LeetCode](https://leetcode.com/Toshit-Jain07)
+- 🎯 Currently **open to internship opportunities**
 - 💬 Always up for talking backend architecture, DSA, or competitive programming
 
 ---
