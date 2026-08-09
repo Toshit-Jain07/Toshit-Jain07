@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/toshit-jain07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jtoshit45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Toshit-Jain07"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/Toshit-Jain07"><img src="https://leetcode.com/medal/?showImg=0&id=10051858&isLevel=false" /></a>
+  <a href="https://leetcode.com/Toshit-Jain07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Toshit-Jain07&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshit-Jain07&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Toshit-Jain07&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Toshit-Jain07&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
